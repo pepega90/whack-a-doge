@@ -2,6 +2,7 @@
 made with Rust and macroquad
 
 * Uses [macroquad](https://macroquad.rs/)
+* Assets [pak sandika galih](https://github.com/sandhikagalih/pukul-tikus-tanah/tree/master/img)
 
 <img src="https://github.com/pepega90/whack-a-doge/blob/main/whack.gif" />
 
